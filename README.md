@@ -2,7 +2,7 @@
 
 A comprehensive, real-time performance dashboard for monitoring and evaluating AI agents. Fuzebox provides full observability into agent task execution, cost economics, quality scoring, and distributed traces — all through an interactive Streamlit interface backed by OpenTelemetry instrumentation and a local SQLite database.
 
-[Live Demo](REPLACE_WITH_RENDER_URL) · [GitHub Repository](https://github.com/rashidinvozone/Fuzebox)
+[Live Demo](https://fuzebox-isdv5qtatyegzefxi68o9q.streamlit.app/) · [GitHub Repository](https://github.com/rashidinvozone/Fuzebox)
 
 ---
 
